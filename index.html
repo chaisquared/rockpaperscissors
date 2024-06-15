@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rock Paper Scissors</title>
 </head>
+
 <body>
+    <button onclick="playRound('rock')">Rock</button>
+    <button onclick="playRound('paper')">Paper</button>
+    <button onclick="playRound('scissors')">Scissors</button>
+    <div id="humanScore">Human: 0</div>
+    <div id="computerScore">Computer: 0</div>
+    <br />
+    <div id="message">Let's play! Who will win???</div>
+
+    <!-- <script>
+        function meow(value) {
+            alert('meow ' + value)
+            }
+            </script> -->
     <script src="game.js"></script>
 </body>
+
 </html>
