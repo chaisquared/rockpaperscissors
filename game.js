@@ -62,46 +62,4 @@ function playRound(humanChoice) {
 
 function playGame() {
 
-
-   // function getHumanChoice() {
-   //    let choice = prompt("Rock, paper or scissors?")
-   //    let humanChoice
-   //    if (choice.toLowerCase() == "rock") {
-   //       humanChoice = "rock"
-   //    } else if (choice.toLowerCase() == "paper") {
-   //       humanChoice = "paper"
-   //    } else if (choice.toLowerCase() == "scissors") {
-   //       humanChoice = "scissors"
-   //    } else {
-   //       alert("Invalid input! Please stick to rock, paper or scissors!")
-   //    }
-   //    return humanChoice
-   // }
-
-
-
-
-
-
-
 }
-
-// let humanSelection = getHumanChoice()
-// let computerSelection = getComputerChoice()
-// playRound(humanSelection, computerSelection)
-// humanSelection = getHumanChoice()
-// computerSelection = getComputerChoice()
-// playRound(humanSelection, computerSelection)
-// humanSelection = getHumanChoice()
-// computerSelection = getComputerChoice()
-// playRound(humanSelection, computerSelection)
-// humanSelection = getHumanChoice()
-// computerSelection = getComputerChoice()
-// playRound(humanSelection, computerSelection)
-// humanSelection = getHumanChoice()
-// computerSelection = getComputerChoice()
-// playRound(humanSelection, computerSelection)
-// alert("Game over! Human: " + humanScore + " Computer: " + computerScore)
-
-
-// playGame()
